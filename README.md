@@ -1,15 +1,41 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xAJhzuCW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.uvex) 
+# Hi 👋, I'm m_uvex
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m-uvex&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=m-uvex&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-uvex&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+**Just an ordinary Full-Stack dev passionate about web and game dev.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-uvex&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+## 👀 I'm interested in
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+UI & UX Design, WEB DEV, Game DEV
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> 
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> 
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white" /> 
+
+## 🌐 Socials
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/m-uvex) 
+
+</div>
+
+---
+⭐️ From [m_uvex](https://github.com/m-uvex)
+
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/m-uvex/count.svg" alt="Visitor Count" />
+</div>
