@@ -1,24 +1,6 @@
-# m_uvex
+# Hi 👋, I'm m_uvex
 
-```typescript
-const profile = {
-  name: "m_uvex",
-  bio: "Just an ordinary Full-Stack dev passionate about web and game dev.",
-  interests: "UI & UX Design,WEB DEV,Game DEV",
-  skills: [
-    "HTML5",
-    "CSS3",
-    "Material UI",
-    "GitHub Actions",
-    "Docker",
-    "Android",
-    "Kotlin",
-    "JavaScript",
-    "Python",
-    "C++"
-  ],
-}
-```
+**Just an ordinary Full-Stack dev passionate about web and game dev.**
 
 ## 👀 I'm interested in
 
@@ -28,58 +10,46 @@ UI & UX Design, WEB DEV, Game DEV
 
 <!-- ⚠️ Important: Replace 'm-uvex' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-uvex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-uvex&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 🔝 Most Used Languages
 
 <!-- ⚠️ Important: Replace 'm-uvex' with your actual GitHub username in the URL below -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-uvex&layout=compact&langs_count=10&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-uvex&layout=compact&langs_count=10&theme=default"/>
 </div>
 
 ## 💻 Tech Stack
 
-```json
-{
-  "frontend": [
-    "HTML5",
-    "CSS3",
-    "Material UI"
-  ],
-  "devops": [
-    "GitHub Actions",
-    "Docker"
-  ],
-  "mobile": [
-    "Android",
-    "Kotlin"
-  ],
-  "languages": [
-    "JavaScript",
-    "Python",
-    "C++"
-  ]
-}
-```
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Material UI-ff69b4?style=for-the-badge&logo=material ui&logoColor=white" /> 
+
+### 🚀 DevOps
+
+<img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> 
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C++-FFA500?style=for-the-badge&logo=c++&logoColor=white" /> 
+
+### 📱 Mobile
+
+<img src="https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-3CB371?style=for-the-badge&logo=kotlin&logoColor=white" /> 
 
 ## 🌐 Socials
 
-```javascript
-const socials = {
-  github: "m-uvex",
-  instagram: "https://www.instagram.com/m_uvex_tech/",
-  discord: "gVmh7uXzPN",
-}
-```
+<div align="center">
 
-<div>
-<a href="https://github.com/m-uvex"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.instagram.com/m_uvex_tech/"><img src="https://img.shields.io/badge/instagram-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://discord.gg/gVmh7uXzPN"><img src="https://img.shields.io/badge/discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/m-uvex) 
+
 </div>
 
-```typescript
-// Thanks for visiting my profile!
-console.log("Let's connect and collaborate on exciting projects!");
+---
+⭐️ From [m_uvex](https://github.com/m-uvex)
 
-process.exit(0); // Until next time 👋
-```
+<!-- Profile views counter -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/m-uvex/count.svg" alt="Visitor Count" />
+</div>
