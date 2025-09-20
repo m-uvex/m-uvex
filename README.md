@@ -1,41 +1,49 @@
-# Hi 👋, I'm m_uvex
+<div align="center">
 
-**Just an ordinary Full-Stack dev passionate about web and game dev.**
+# ✨ m_uvex ✨
+
+<p><em>Just an ordinary Full-Stack dev passionate about web and game dev.</em></p>
+
+<hr>
+
+</div>
 
 ## 👀 I'm interested in
 
-UI & UX Design, WEB DEV, Game DEV
+<div align="center"><p>UI & UX Design, WEB DEV, Game DEV</p></div>
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend
+<div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white" /> 
+**🎨 Frontend**
 
-### 🚀 DevOps
+`HTML5` • `CSS3`
 
-<img src="https://img.shields.io/badge/GitHub Actions-9370db?style=for-the-badge&logo=github actions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-9370db?style=for-the-badge&logo=docker&logoColor=white" /> 
+**🚀 DevOps**
 
-### 💬 Languages
+`GitHub Actions` • `Docker`
 
-<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C#-FFA500?style=for-the-badge&logo=c#&logoColor=white" /> 
+**📱 Mobile**
 
-### 📱 Mobile
+`Android`
 
-<img src="https://img.shields.io/badge/Android-3CB371?style=for-the-badge&logo=android&logoColor=white" /> 
+**💬 Languages**
+
+`JavaScript` • `Python` • `C#`
+
+</div>
 
 ## 🌐 Socials
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/m-uvex) 
+<a href="https://github.com/m-uvex"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 </div>
 
----
-⭐️ From [m_uvex](https://github.com/m-uvex)
-
-<!-- Profile views counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/m-uvex/count.svg" alt="Visitor Count" />
+
+✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+
 </div>
