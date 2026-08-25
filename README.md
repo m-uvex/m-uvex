@@ -1,15 +1,74 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xAJhzuCW) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.uvex) 
+```banner
+.        :            ...    ::::::      .::..,::::::    .,::      .:
+;;,.    ;;;           ;;     ;;;';;,   ,;;;' ;;;;''''    `;;;,  .,;; 
+[[[[, ,[[[[,         [['     [[[ \[[  .[[/    [[cccc       '[[,,[['  
+$$$$$$$$"$$$         $$      $$$  Y$c.$$"     $$""""        Y$$$P    
+888 Y88" 888o        88    .d888   Y88P       888oo,__    oP"``"Yo,  
+MMM  M'  "MMMmmmmmmmmm"YmmMMMM""    MP        """"YUMMM,m"       "Mm,
+```
+---
+```fastfetch
+[m_uvex@lt-hp15-cachy]:~$  >  fastfetch
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m-uvex&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=m-uvex&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-uvex&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-uvex&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+   .   *   ✦  .     m_uvex@earth
+  .  (●)   .   *    ---------------------------------------------------
+ *  .   .  *  . +   Role:        Tinkerer / Linux Enthusiast & Dev
+   .  *  .  .   .   Location:    Europe
+ .   ✦  .   * .     Uptime:      16 Years
+   +   .   .  *     Status:      Open to open-source collabs & UI work
+   *   ( ) .   +    Primary OS:  CachyOS (Migrating to NixOS)
+  .  .   *   .      Stack:       HTML/CSS • TS/JS • React • Tailwind • Python
+ *   ✦   .  *   .   Tooling:     IntelliJ • Docker • Forgejo • Kitty
+  .    .   .  *     
+   *  .  ✦ .   .    [ Projects & Interests ]
+ .   *   .  *  +    ---------------------------------------------------
+   .  o   .   .     Building:    Glyphix • SpaceNIX • Phone-Launcher
+ *   .  .  *   ✦    Hobbies:     Skateboarding • Self-Hosting • Tinkering
+   +   .  *  .      Games:       Minecraft (Modded) • Watch_Dogs2 • BodyCam
+ .   *   .   *  .   
+  .   ✦  . *   .    [ Connect & Media ]
+ *  .   .    ✦  *   ---------------------------------------------------
+   .  (●)  .   .    ├── Dev / Personal:
+ .   *   .  *  .    │   ├── GitHub:     github.com/m-uvex
+   ✦   .   +   *    │   ├── Discord:    m_uvex
+ .   .  *   .       │   ├── Instagram:  @m.uvex
+   *   .  ✦  . *    │   └── Reddit:     u/NEMOalien
+ .   +   .   .      │
+  .    *   o   .    └── 2much_potato (Content):
+ *   ✦   .   *          ├── YouTube:    @2much_potato
+   .   .  *   +         ├── TikTok:     @2much_potato
+ .   ( ) .   .          └── Instagram:  @2much_potato       
+   *   .   ✦  . *   
+ .   .   *   .      [ Hardware ]
+   +   .   .  *     ---------------------------------------------------
+ *   .  ✦  *   .    ├── Laptops:
+   .   *   .  +     │   ├── Orion (lt-hp15-cachyos)
+ .   (●) .   .  *   │   │   └── i5-8265U • GeForce MX150 • 24GB DDR4
+   *   .   *  .     │   │
+ .   ✦   .   ✦  +   │   └── Voyager (lt-tpe530-bios)
+   .   *   .   .    │       └── i5-3210M • Intel HD 4000 • 8GB DDR3
+ *   .   +   *  .   │
+   ✦   .   o   *    ├── Server:  Lunar (srv-c4030-ubuntu)
+ .   .   *   .      │   └── i3-4005U • GeForce 117M • 4GB DDR3
+   *   .   ✦  . +   │
+ .   ( ) .   *      └── Phones:
+   *   .  .   . *       ├── Nebula (mb-3apro-nos)
+ .   ✦  *  +  .         │   └── Snapdragon 7s Gen 3 • Adreno 810 • 12GB LPDDR5X
+   .   .   *   ✦        │
+ *   (●) .   .  *       └── Solar (mb-rn11p-miui)
+  .    .   *   .            └── Helio G96 • Mali-G57 MC2 • 8GB LPDDR4X
+   ✦   *   .  +     
+  .  *   .   +  .   [ Software & Config ]
+ *   .   ✦   .  *   ---------------------------------------------------
+   .  (●)  .   .    Distros:     CachyOS • NixOS • Ubuntu Server • Android
+ .   *   .  *  .    DEs / WMs:   Hyprland • GNOME • DriftWM
+   ✦   .   +   *    Dotfiles:    Illogical-Impulse + ii-vynx • Caelestia
+ .   .  *   .       Browsers:    Zen Browser • Chromium
+   *   .  ✦  . *    Development: IntelliJ • Antigravity IDE • Kitty
+ .   +   .   .      CLI:         Micro • Bat • Trashy • Git • Fastfetch
+  .    *   o   .    MC Clients:  Prism • Modrinth • Lunar • MCBL
+ *   ✦   .   *      Misc:        Obsidian • Vesktop • VacuumTube • Feishin
+   .   .  *   +     SSH Key:     SHA256:4y+... (ed25519)
+ .   .   *   .      └── AAAAC3NzaC1lZDI1NTE5AAAAIKT+rzs85ZnNdaPFsc9FjNFASNYATaXY5qkWQEOJhHfc
+```
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=m-uvex&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=m-uvex&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=m-uvex&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=m-uvex&layout=compact&langs_count=6&theme=dark)
