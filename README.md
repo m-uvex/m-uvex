@@ -27,8 +27,8 @@ MMM  M'  "MMMmmmmmmmmm"YmmMMMM""    MP        """"YUMMM,m"       "Mm,
  *   .    .   *   .  ┃ Building sites, block by Blok.┃┃ NixOS, Made easy. ┃
    .   *   .   .  +  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛┗━━━━━━━━━━━━━━━━━━━┛
  .    ✦   .   *  .   ┏━━━━━━━━━━━━━━━━━━━━━━━━━┓┏━━━━━━━━━━━━━━━━━━━━━━━━━┓
-   +    .   .   *    ┃ > OrbitOS               ┃┃ > Glyphix               ┃
-   *   ( )  .   +    ┃ NixOS, Made easy.       ┃┃ Music in motion.        ┃
+   +    .   .   *    ┃ > Phone-Luncher         ┃┃ > Glyphix               ┃
+   *   ( )  .   +    ┃ Your apps, anywhere.    ┃┃ Music in motion.        ┃
   .   .   *   .      ┗━━━━━━━━━━━━━━━━━━━━━━━━━┛┗━━━━━━━━━━━━━━━━━━━━━━━━━┛
  *   ✦    .   *   .  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
   .    .   .   *     ┃ ... And much more! Feel free to DM for collabs     ┃
