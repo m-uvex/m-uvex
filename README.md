@@ -15,10 +15,10 @@ MMM  M'  "MMMmmmmmmmmm"YmmMMMM""    MP        """"YUMMM,m"       "Mm,
  *  .    .  *  . +   Role:         Tinkerer / Linux Enthusiast & Web Developer
    .  *  .  .   .    Location:     Eastern Europe
  .   ✦  .   * .      Uptime:       16 Years
-   +    .   .  *     Status:       Open to open-source collabs
+   +    .   .  *     Status:       Open to collabs
    *   ( ) .   +     Primary OS:   NixOS (OrbitOS)
-  .  .   *   .       Stack:        HTML/CSS • TS/JS • React • Tailwind • Python
- *   ✦    .  *   .   Tooling:      IntelliJ • Docker • Forgejo • Kitty
+  .  .   *   .       Stack:        HTML/CSS • TS/JS • Python • Rust
+ *   ✦    .  *   .   Tooling:      IntelliJ • Docker • Gitea • Kitty
   .    .   .  *     
    *  .  ✦ .   .     [ Projects & Interests ]
  .   *    .  *  +    ------------------------------------------------------
@@ -26,10 +26,10 @@ MMM  M'  "MMMmmmmmmmmm"YmmMMMM""    MP        """"YUMMM,m"       "Mm,
   .   (●)   .   *    ┏━━━━━━━━━┛ > BLOK. WebDev      ┃┃ > OrbitOS         ┃
  *   .    .   *   .  ┃ Building sites, block by Blok.┃┃ NixOS, Made easy. ┃
    .   *   .   .  +  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛┗━━━━━━━━━━━━━━━━━━━┛
- .    ✦   .   *  .   ┏━━━━━━━━━━━━━━━━━━━━━━━━━┓┏━━━━━━━━━━━━━━━━━━━━━━━━━┓
-   +    .   .   *    ┃ > Phone-Luncher         ┃┃ > Glyphix               ┃
-   *   ( )  .   +    ┃ Your apps, anywhere.    ┃┃ Music in motion.        ┃
-  .   .   *   .      ┗━━━━━━━━━━━━━━━━━━━━━━━━━┛┗━━━━━━━━━━━━━━━━━━━━━━━━━┛
+ .    ✦   .   *  .   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━┓┏━━━━━━━━━━━━━━━━━━━━━━━━┓
+   +    .   .   *    ┃ > Loaf                   ┃┃ > Glyphix              ┃
+   *   ( )  .   +    ┃ File Manager, Reimagined.┃┃ Music in motion.       ┃
+  .   .   *   .      ┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛┗━━━━━━━━━━━━━━━━━━━━━━━━┛
  *   ✦    .   *   .  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
   .    .   .   *     ┃ ... And much more! Feel free to DM for collabs     ┃
    .  o   .   .      ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
@@ -74,7 +74,7 @@ MMM  M'  "MMMmmmmmmmmm"YmmMMMM""    MP        """"YUMMM,m"       "Mm,
  .   *    .  *  .    DEs / WMs:    Hyprland • GNOME • DriftWM
    ✦    .   +   *    Dotfiles:     Illogical-Impulse + end4-pC • Caelestia
  .   .  *    .       Browsers:     Zen Browser • Chromium • Cromite
-   *    .  ✦  . *    Development:  Idea • Antigravity IDE • Kitty
+   *    .  ✦  . *    Development:  IDEA • Micro • Gitea • Kitty
  .   +    .   .      CLI:          Micro • Bat • Trashy • Git • Fastfetch
   .    *    o   .    MC Clients:   Prism • Modrinth • Lunar • MCBL
  *   ✦    .   *      Misc:         Obsidian • Vesktop • VacuumTube • Feishin
